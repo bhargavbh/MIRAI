@@ -6,8 +6,8 @@ To get an idea of the kind of warnings geenrated by MIRAI, recommend using the `
 ```
 [env]
 
-MIRAI_FLAG = "--diag=paranoid --print_function_names"
-MIRAI_LOGS = "warn"
+MIRAI_FLAGS = "--diag=paranoid --print_function_names"
+MIRAI_LOG = "warn"
 ```
 
 
